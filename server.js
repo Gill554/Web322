@@ -6,7 +6,7 @@
 *  
 *  https://www.senecacollege.ca/about/policies/academic-integrity-policy.html 
 *  
-*  Name: Haroon Waseem Baig Student ID: 125636225 Date: 2024-04-06
+*  Name: Komalpreet Kaur Gill ID: 112767223 Date: 2024-04-06
 * 
 *  Published URL: 
 * 

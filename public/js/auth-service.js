@@ -15,7 +15,7 @@ let User;
 
 const initialize = () => {
     return new Promise ((resolve, reject ) => {
-        let db = mongoose.createConnection('mongodb+srv://haroonbaig9876:abcdefghijk@cluster0.yuucydh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0');
+        let db = mongoose.createConnection('mongodb+srv://kpkbhojian:abcdefghijk@cluster0.yz5l2fu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0');
 
         db.on('error', (err) => {
             reject(err);
